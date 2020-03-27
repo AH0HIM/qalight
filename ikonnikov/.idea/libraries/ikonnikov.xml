@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ikonnikov">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/2ikonnikov.zip!/" />
+      <root url="jar://$PROJECT_DIR$/NEWikonnikov.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

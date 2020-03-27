@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d8eed16-4b11-4a04-be2f-75f27c7ab270" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ikonnikov" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YaLRepN4UebQfxU5JNKAqs2iV7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../New folder/apache-log4j-1.2.17/log4j-1.2.17.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="com.home" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="qalight.home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\CyruS\Desktop\Project\ikonnikov\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.homeMainClass">
+    <configuration type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.felixfeatures.ex7.MainS" />
+      <module name="ikonnikov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.felixfeatures.ex7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MyFirstJavaProgram" />
+      <module name="ikonnikov" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qalight.classWork.MainClass" />
+      <module name="ikonnikov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qalight.classWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qalight.chess.MainClass" />
+      <module name="ikonnikov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qalight.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mdaind" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="qalight.home.Mdaind" />
+      <module name="ikonnikov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qalight.homeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeMainClass" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qalight.homeWork.homeMainClass" />
+      <module name="ikonnikov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qalight.homeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.homeMainClass" />
+      <item itemvalue="Application.MainClass" />
+      <item itemvalue="Application.Mdaind" />
+      <item itemvalue="Application." />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.Mdaind" />
+        <item itemvalue="Application." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d8eed16-4b11-4a04-be2f-75f27c7ab270" name="Default" comment="" />
+      <created>1582963953323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582963953323</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="175" key="#Project_Structure" timestamp="1585240805669">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="483" y="175" key="#Project_Structure/0.0.1680.1020@0.0.1680.1020" timestamp="1585240805669" />
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583488158646" />
+    <state x="251" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585342961570">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="251" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1585342961570" />
+    <state x="1009" y="345" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583431182163">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="1009" y="345" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1583431182163" />
+    <state x="1065" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1584714349509">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="1065" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1020@0.0.1680.1020" timestamp="1584714349509" />
+    <state x="526" y="270" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585342919003">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="526" y="270" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1585342919003" />
+    <state x="786" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583488176503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="398" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1583175764575" />
+    <state x="786" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583488176503" />
+    <state x="990" y="219" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585248892775">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="990" y="219" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1585248892775" />
+    <state x="381" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583268190883">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="381" y="434" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1583268190883" />
+    <state x="247" y="402" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584028502229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="216" y="394" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1020@0.0.1680.1020" timestamp="1583268175878" />
+    <state x="247" y="402" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584028502229" />
+    <state x="756" y="426" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1583503650245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="426" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583503650245" />
+    <state x="329" y="345" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog" timestamp="1583268192104">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="329" y="345" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1583268192104" />
+    <state x="503" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583420009204">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="503" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1583420009204" />
+    <state x="162" y="207" key="FileChooserDialogImpl" timestamp="1585261847101">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="162" y="207" key="FileChooserDialogImpl/0.0.1680.1020@0.0.1680.1020" timestamp="1585261847101" />
+    <state x="709" y="240" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584039006100" />
+    <state x="709" y="240" key="FileChooserDialogImpl/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583489406425" />
+    <state width="780" height="326" key="GridCell.Tab.0.bottom" timestamp="1585349548186">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="780" height="326" key="GridCell.Tab.0.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1585349548186" />
+    <state width="1876" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584126113880" />
+    <state width="1876" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583510503190" />
+    <state width="780" height="326" key="GridCell.Tab.0.center" timestamp="1585349548186">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="780" height="326" key="GridCell.Tab.0.center/0.0.1680.1020@0.0.1680.1020" timestamp="1585349548186" />
+    <state width="1876" height="184" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584126113880" />
+    <state width="1876" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583510503190" />
+    <state width="780" height="326" key="GridCell.Tab.0.left" timestamp="1585349548186">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="780" height="326" key="GridCell.Tab.0.left/0.0.1680.1020@0.0.1680.1020" timestamp="1585349548186" />
+    <state width="1876" height="184" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584126113880" />
+    <state width="1876" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583510503190" />
+    <state width="780" height="326" key="GridCell.Tab.0.right" timestamp="1585349548186">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="780" height="326" key="GridCell.Tab.0.right/0.0.1680.1020@0.0.1680.1020" timestamp="1585349548186" />
+    <state width="1876" height="184" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584126113880" />
+    <state width="1876" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583510503190" />
+    <state width="780" height="326" key="GridCell.Tab.1.bottom" timestamp="1585349548186">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="780" height="326" key="GridCell.Tab.1.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1585349548186" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584124412449" />
+    <state width="780" height="326" key="GridCell.Tab.1.center" timestamp="1585349548186">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="780" height="326" key="GridCell.Tab.1.center/0.0.1680.1020@0.0.1680.1020" timestamp="1585349548186" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584124412448" />
+    <state width="780" height="326" key="GridCell.Tab.1.left" timestamp="1585349548186">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="780" height="326" key="GridCell.Tab.1.left/0.0.1680.1020@0.0.1680.1020" timestamp="1585349548186" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584124412448" />
+    <state width="780" height="326" key="GridCell.Tab.1.right" timestamp="1585349548186">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="780" height="326" key="GridCell.Tab.1.right/0.0.1680.1020@0.0.1680.1020" timestamp="1585349548186" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584124412448" />
+    <state x="55" y="252" key="IDE.errors.dialog" timestamp="1583426673758">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="55" y="252" key="IDE.errors.dialog/0.0.1680.1020@0.0.1680.1020" timestamp="1583426673758" />
+    <state x="229" y="72" key="SettingsEditor" timestamp="1585261856820">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="229" y="72" key="SettingsEditor/0.0.1680.1020@0.0.1680.1020" timestamp="1585261856820" />
+    <state x="213" y="85" key="SettingsEditor/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583489428992" />
+    <state x="261" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1585327437716">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="261" y="306" key="com.intellij.ide.util.TipDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1585327437716" />
+    <state x="298" y="312" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584115588129" />
+    <state x="298" y="312" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583489395037" />
+    <state x="312" y="422" width="1235" height="572" key="new project wizard" timestamp="1584710948316">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="312" y="422" width="1235" height="572" key="new project wizard/0.0.1680.1020@0.0.1680.1020" timestamp="1584710948316" />
+    <state x="362" y="230" key="run.anything.popup" timestamp="1585335764691">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="362" y="230" key="run.anything.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1585335764691" />
+    <state x="83" y="224" width="672" height="678" key="search.everywhere.popup" timestamp="1585346267853">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="83" y="224" width="672" height="678" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1585346267853" />
+    <state x="95" y="228" width="768" height="692" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584125354713" />
+    <state x="95" y="228" width="768" height="692" key="search.everywhere.popup/0.0.1920.1040/-1920.69.1920.1040@0.0.1920.1040" timestamp="1583502734758" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeArrayMethods.java</url>
+          <line>506</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeMethods.java</url>
+          <line>361</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeMethods.java</url>
+          <line>362</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeMethods.java</url>
+          <line>360</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeArrayMethods.java</url>
+          <line>501</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeArrayMethods.java</url>
+          <line>503</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeArrayMethods.java</url>
+          <line>474</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeArrayMethods.java</url>
+          <line>466</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeArrayMethods.java</url>
+          <line>465</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeArrayMethods.java</url>
+          <line>464</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeArrayMethods.java</url>
+          <line>429</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/qalight/homeWork/homeArrayMethods.java</url>
+          <line>270</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
